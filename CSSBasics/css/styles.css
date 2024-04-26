@@ -1,0 +1,16 @@
+body {
+  margin: 10px;
+}
+
+
+.box {
+  width: 200px;
+  height: 200px;
+  background: gold;
+  box-shadow:  0 0 50px tomato;
+}
+
+h1 {
+  color:aliceblue;
+  text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
